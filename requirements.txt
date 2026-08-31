@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+pyyaml
+requests
+dvc
+dvc-s3
+dagshub
